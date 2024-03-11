@@ -1,2 +1,4 @@
 Hola a todos 
-Espero que tdos aprendan toso lo relacionado con la web
+Espero que tdos aprendan todos lo relacionado con la web 
+
+Importante estudiar y desarrollar los conceptos vistos en clase
